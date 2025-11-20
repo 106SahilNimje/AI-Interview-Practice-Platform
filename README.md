@@ -1,4 +1,4 @@
-#AI Interview Practice Platform
+# AI Interview Practice Platform
 
 ## React + TypeScript + Vite
 
